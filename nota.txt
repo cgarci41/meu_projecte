@@ -1,2 +1,5 @@
 Hola des del mobil
 Modificat 1 cop
+Modificat per estar a una nova branca 2a versio
+
+
